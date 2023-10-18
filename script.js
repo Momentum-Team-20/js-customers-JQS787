@@ -1,0 +1,1 @@
+const customerContainer = document.querySelector('customers')

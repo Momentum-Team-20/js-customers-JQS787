@@ -1,0 +1,42 @@
+* {
+    font-family: sans-serif;
+    
+}
+ {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.customers {
+    text-align: center;
+    font-size: small;
+    padding: 10px;
+    margin: 5px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: larger;
+    padding: 10px;
+    text-transform: capitalize;
+}
+
+.email {
+    color: rgb(209, 199, 199);
+    padding-bottom: 7px;
+}
+
+.address {
+    padding-bottom: 5px;
+}
+
+.dob {
+    font-size: small;
+}
